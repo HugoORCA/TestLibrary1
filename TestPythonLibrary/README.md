@@ -1,0 +1,1 @@
+It is a package to do simple math:)
